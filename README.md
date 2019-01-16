@@ -7,3 +7,5 @@
 intelliMedia: 知能メディアシステム学
 
 intelliProcess: 知能処理特論
+
+intelliDevelop: 知能システム開発特論
